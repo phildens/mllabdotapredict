@@ -1,2 +1,5 @@
 /data
 /venv
+/catboost_info
+.idea
+.DS_Store
